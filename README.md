@@ -1,6 +1,6 @@
 # Heuristica_Grupo1_RPVMM
 
-Repositório com a implementação feita em Julia da heurística do problema proposto pelo Metrô de São Paulo.
+Repositório com a implementação feita em Julia da heurística para o problema proposto pelo Metrô de São Paulo.
 
 Desenvolvida pelo grupo 1 da disciplina de Resolução de Problemas via Modelagem Matemática da UNIFESP de São José dos Campos, durante o primeiro semestre de 2024.
 
