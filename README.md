@@ -6,4 +6,4 @@ Desenvolvida pelo grupo 1 da disciplina de Resolução de Problemas via Modelage
 
 Quaisquer dúvidas sobre o trabalho feito podem ser encaminhadas para o e-mail do líder do grupo: matheus.fideles@unifesp.br
 
-Dados para a execução do algoritmo não serão disponibilizados devido ao termo de confidencialidade assinado.
+Os dados fornecidos pelo cliente para a execução do algoritmo não serão disponibilizados, devido ao termo de confidencialidade assinado.
